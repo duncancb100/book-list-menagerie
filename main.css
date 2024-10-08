@@ -1,0 +1,279 @@
+body{ 
+    background-color: #333;
+    color: whitesmoke;
+    background-image:url(hugocovers/nasa-rTZW4f02zY8-unsplash.jpg);
+}
+
+html{
+    font-size:22px;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited{
+    color: lightgray;
+}
+
+a:hover, a:active{
+    color: #eee;
+}
+
+ul {
+    counter-reset: checked;
+  }
+  
+  li input:checked {
+    counter-increment: checked;
+  }
+  
+  .count:after {
+    content: counter(checked);
+  }
+
+
+.guidetoscifi{
+    counter-reset:checked;   
+}
+
+td input:checked {
+    counter-increment: checked;
+}
+
+.guideread:after{
+    content:counter(checked);
+}
+
+.guideread{
+    border:2px solid green;
+    margin-right:auto;
+    margin-left:auto;
+    padding:10px;
+    background-color:#222222;
+    width:400px;
+}
+
+.nebularead:after{
+    content:counter(checked);
+}
+
+.nebularead{
+    border:2px solid green;
+    margin-right:auto;
+    margin-left:auto;
+    padding:10px;
+    background-color:#222222;
+    width:400px;
+}
+.nebulatable{
+    counter-reset:checked;  
+}
+
+
+.hugosread:after{
+    content:counter(checked);
+    
+}
+
+.hugosread{
+    border:2px solid green;
+    margin-right:auto;
+    margin-left:auto;
+    padding:10px;
+    background-color:#222222;
+    width:400px;
+
+}
+
+
+.fande{
+    margin-top:46px;
+}
+.tsmd{
+    margin-top:46px;
+}
+.coc{
+    margin-top:46px;
+}
+.tmc{
+    margin-top:46px;
+}
+.apom{
+    margin-top:46px;
+}
+
+.cityandstars{
+    margin-top:46px;
+}
+.manhighc{
+    margin-top:46px;
+}
+.centauri{
+    margin-top:46px;
+}
+
+.moonhm{
+    margin-top:46px;
+}
+.citizen{
+    margin-top:46px;
+}
+.nightland{
+    margin-top:46px;
+}
+.earthlc{
+    margin-top:46px;
+}
+.lefthand{
+    margin-top:46px;
+}
+.mountains{
+    margin-top:46px;
+}
+.canticle{
+    margin-top:46px;
+}
+.cornelius{
+    margin-top:46px;
+}
+.spacemerchants{
+    margin-top:74px;
+}
+.null_a{
+    margin-top:46px;
+}
+.earthtomoon{
+    margin-top:46px;
+}
+.midwich{
+    margin-top:46px;
+}
+
+.hugo{
+    counter-reset:checked;   
+}
+
+.trbr{
+    margin-top:46px;
+}
+.stranger{
+    margin-top:46px;
+}
+.to_your_scattered_bodies_go{
+    margin-top:46px;
+}
+.the_gods_themselves{
+    margin-top:46px;
+}
+.rama{
+    margin-top:46px;
+}
+.sweetbirds{
+    margin-top:46px;
+}
+.fountains{
+    margin-top:46px;
+}
+.speaker_for_the_dead{
+    margin-top:46px;
+}
+.vorgame{
+    margin-top:46px;
+}
+.fireuponthedeep{
+    margin-top:46px;
+}
+.greenmars{
+    margin-top:46px;
+}
+.mirrordance{
+    margin-top:46px;
+}
+.nothingofthedog{
+    margin-top:46px;
+}
+.harrypotter{
+    margin-top:46px;
+}
+.paladin{
+    margin-top:46px;
+}
+.norrell{
+    margin-top:46px;
+}
+.yiddish{
+    margin-top:46px;
+}
+.cityandthecity{
+    margin-top:46px;
+}
+.blackout{
+    margin-top:46px;
+}
+.threebody{
+    margin-top:46px;
+}
+.calculatingstars{
+    margin-top:46px;
+}
+.memorycalledempire{
+    margin-top:46px;
+}
+.desolationcalledpeace{
+    margin-top:46px;
+}
+.algernon{
+    margin-top:46px;
+}
+.einstein{
+    margin-top:46px;
+}
+.lhod{
+    margin-top:46px;
+}
+.godsthemselves{
+    margin-top:46px;
+}
+.rwithr{
+    margin-top:46px;
+}
+.startide{
+    margin-bottom:46px;
+}
+.spfd{
+    margin-top:46px;
+}
+.fallingwoman{
+    margin-top:46px;
+}
+.fallingfree{
+    margin-top:46px;
+}
+.fallingf{
+    margin-top:46px;
+}
+.healerswar{
+    margin-top:46px;
+}
+.stationsofthetide{
+    margin-top:46px;
+}
+.terminal{
+    margin-top:46px;
+}
+.moonandsun{
+    margin-top:46px;
+}
+.talents{
+    margin-top:46px;
+}
+.allthebirds{
+    margin-top:46px;
+}
+.calculating{
+    margin-top:46px;
+}
+.brightdoors{
+    margin-top:46px;
+}
